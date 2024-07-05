@@ -96,3 +96,7 @@ func (s *Service) createDataFromRawBook(raw *RawExtractBook, userID int) error {
 	return nil
 
 }
+
+func GoToEmails() error {
+	return nil
+}
